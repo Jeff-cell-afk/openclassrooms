@@ -10,7 +10,9 @@ Les travaux d'analyse ont été réalisés sur des notebooks Jupyter avec le lan
 
 ## Liste des projets réalisés et objectifs visés
 - Projet 3 : création de base de données SQL
+  
   Construction d'une BDD avec SQLite à partir des données des Demandes de Valeurs foncières, puis interrogation de la base avec des requêtes
+  
 - Projet 4 : étude de santé publique
   Analyse des jeux de données de la FAO pour extraire des indicateurs et mettre en exergue des problématiques
 - Projet 5 : optimisation de base de données boutique
